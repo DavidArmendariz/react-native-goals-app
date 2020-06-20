@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-complete-guide",
-    "slug": "rn-complete-guide",
+    "name": "react-native-goals-app",
+    "slug": "react-native-goals-app",
     "platforms": [
       "ios",
       "android",
